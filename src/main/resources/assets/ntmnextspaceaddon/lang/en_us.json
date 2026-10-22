@@ -1,0 +1,13 @@
+{
+  "itemGroup.ntmnextspaceaddon": "NTM: Randomness",
+  "block.ntmnextspaceaddon.example_block": "Example Block",
+  "item.ntmnextspaceaddon.example_item": "Example Item",
+
+  "ntmnextspaceaddon.configuration.title": "NTM Next Space Addon Configs",
+  "ntmnextspaceaddon.configuration.section.ntmnextspaceaddon.common.toml": "NTM Next Space Addon Configs",
+  "ntmnextspaceaddon.configuration.section.ntmnextspaceaddon.common.toml.title": "NTM Next Space Addon Configs",
+  "ntmnextspaceaddon.configuration.items": "Item List",
+  "ntmnextspaceaddon.configuration.logDirtBlock": "Log Dirt Block",
+  "ntmnextspaceaddon.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ntmnextspaceaddon.configuration.magicNumber": "Magic Number"
+}
